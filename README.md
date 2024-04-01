@@ -2,26 +2,23 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
 
-## Development server
+○ Highlight something in your project that you thought was especially
+interesting or significant to your overall implementation.
+○ Tell us what you are most pleased or proud of with your implementation.
+○ Given more time, what next feature or improvement would you like to add
+to your project?
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Minimum Requirements
+As a user,
+● I can search for movies and see a paginated list of results
+● I can filter search results by genre
+● I can navigate through the next and previous pages of the paginated results
+● I see the total count of search results
+● I see notable information for each search result, such as the summary, poster,
+duration, rating, etc.
 
-## Code scaffolding
+API endpoint 
+- https://0kadddxyh3.execute-api.us-east-1.amazonaws.com
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Referenced the Official Angular documentation for search functionality
